@@ -1,9 +1,11 @@
 # how-to-use-tensorboard
-This is the code for the "How to Use Tensorboard" live session by Siraj Raval on Youtube
+### Jianguo Zhang, December 26, 2017
+
+This is the implementation code for the "How to Use Tensorboard" live session by Siraj Raval on Youtube
 
 ## Overview
 
-This is the code for [this](https://www.youtube.com/watch?v=fBVEXKp4DIc) video on Youtube by Siraj Raval. We're going to classify handwritten characters using a convolutional neural network. Then we'll visualize the results in tensorboard, including a demo of the new embedding visualizer. 
+This is the code for [this](https://www.youtube.com/watch?v=fBVEXKp4DIc) and [this](https://www.youtube.com/watch?v=3bownM3L5zM) video on Youtube by Siraj Raval. We're going to classify handwritten characters using a convolutional neural network. Then we'll visualize the results in tensorboard, including a demo of the new embedding visualizer. 
 
 ## Dependencies
 
