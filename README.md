@@ -30,7 +30,7 @@ python simple_mnist.py
 Visualize it with this command in terminal after training. 
 
 ```
-tensorboard --logdir=./logs/nn_logs 
+`tensorboard --logdir=./logs/nn_logs `
 ```
 
 Run the following in terminal to train the code. 
@@ -42,5 +42,5 @@ python advanced_mnist.py
 Visualize it with this command in terminal after training. 
 
 ```
-tensorboard --logdir='/tmp/mnist_tutorial/
+`tensorboard --logdir='/tmp/mnist_tutorial/`
 ```
