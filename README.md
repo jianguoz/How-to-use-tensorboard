@@ -42,5 +42,5 @@ python advanced_mnist.py
 Visualize it with this command in terminal after training. 
 
 ```
-tensorboard --logdir='/tmp/mnist_tutorial/
+tensorboard --logdir='/tmp/mnist_tutorial/`
 ```
