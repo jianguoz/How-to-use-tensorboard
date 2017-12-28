@@ -16,18 +16,29 @@ Install dependencies with [pip](https://packaging.python.org/installing/).
 
 ## Usage
 
-Run `python simple_mnist.py` in terminal to train the code. 
 
+Run the following in terminal to train the code. 
 
-Visualize it with this command in terminal after training. 
+```
+python simple_mnist.py
+```
 
-
-`tensorboard --logdir=./logs/nn_logs` 
-
-
-Run `python advanced_mnist.py` in terminal to train the code. 
 
 
 Visualize it with this command in terminal after training. 
 
-`tensorboard --logdir='/tmp/mnist_tutorial/'` 
+```
+tensorboard --logdir=./logs/nn_logs 
+```
+
+Run the following in terminal to train the code. 
+
+```
+python advanced_mnist.py
+```
+
+Visualize it with this command in terminal after training. 
+
+```
+tensorboard --logdir='/tmp/mnist_tutorial/
+```
