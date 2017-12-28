@@ -1,4 +1,4 @@
-# how-to-use-tensorboard
+# How-to-use-tensorboard
 ### Jianguo Zhang, December 26, 2017
 
 This is the implementation code for the "How to Use Tensorboard" live session by Siraj Raval on Youtube
