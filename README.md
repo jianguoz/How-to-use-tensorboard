@@ -44,3 +44,7 @@ Visualize it with this command in terminal after training.
 ```
 tensorboard --logdir='/tmp/mnist_tutorial/'
 ```
+
+### Improve techniques for training gans
+
+All detailes inside the [folder](https://github.com/JianguoZhang1994/How-to-use-tensorboard/tree/master/Improve-techniques-for-training-gans-Tensorflow)
