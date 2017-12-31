@@ -82,7 +82,7 @@ $ python evaler.py --dataset YOUR_DATASET
 
 <img src="figure/result/mnist/samples.png" height="250"/>
 
-<img src="figure/result/mnist/fake_output" height="250"/>
+<img src="figure/result/mnist/fake_output.png" height="250"/>
 
 <img src="figure/result/mnist/fake_2.png" height="250"/>
 
