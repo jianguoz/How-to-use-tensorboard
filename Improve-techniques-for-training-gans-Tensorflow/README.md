@@ -121,6 +121,10 @@ G_loss
 
 <img src="figure/result/cifar10/accuracy.png" height="200"/>
 
+<img src="figure/result/mnist/loss_1.png" height="200"/>
+<img src="figure/result/mnist/loss_2.png" height="200"/>
+<img src="figure/result/mnist/loss_3.png" height="200"/>
+
 ## Training tricks
 
 * To avoid the fast convergence of the discriminator network
