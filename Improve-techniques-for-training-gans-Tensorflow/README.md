@@ -1,4 +1,7 @@
 # Semi-supervised learning GAN in Tensorflow
+### Jianguo Zhang, December 30, 2017
+
+### Implementation SSL for MNIST dataset, correcting some errors from the original version. Currently codes are suitable for tensorflow==1.2.1. 
 
 As part of the implementation series of [Joseph Lim's group at USC](http://csail.mit.edu/~lim), our motivation is to accelerate (or sometimes delay) research in the AI community by promoting open-source projects. To this end, we implement state-of-the-art research papers, and publicly share them with concise reports. Please visit our [group github site](https://github.com/gitlimlab) for other projects.
 
