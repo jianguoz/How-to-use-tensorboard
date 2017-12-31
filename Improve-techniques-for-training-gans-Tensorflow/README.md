@@ -83,26 +83,6 @@ $ python evaler.py --dataset YOUR_DATASET
 
 <img src="figure/result/mnist/training.gif" height="250"/>
 
-### SVHN
-
-* Generated samples (100th epochs)
-
-<img src="figure/result/svhn/samples.png" height="250"/>
-
-* First 160 epochs
-
-<img src="figure/result/svhn/training.gif" height="250"/>
-
-
-### CIFAR-10
-
-* Generated samples (1000th epochs)
-
-<img src="figure/result/cifar10/samples.png" height="250"/>
-
-* First 200 epochs
-
-<img src="figure/result/cifar10/training.gif" height="250"/>
 
 ## Training details
 
@@ -136,61 +116,6 @@ G_loss
 
 <img src="figure/result/mnist/accuracy.png" height="200"/>
 
-### SVHN
-
-* The supervised loss
-
-<img src="figure/result/svhn/s_loss.png" height="200"/>
-
-* The loss of Discriminator
-
-D_loss_real
-
-<img src="figure/result/svhn/d_loss_real.png" height="200"/>
-
-D_loss_fake
-
-<img src="figure/result/svhn/d_loss_fake.png" height="200"/>
-
-D_loss (total loss)
-
-<img src="figure/result/svhn/d_loss.png" height="200"/>
-
-* The loss of Generator
-
-G_loss
-
-<img src="figure/result/svhn/g_loss.png" height="200"/>
-
-* Classification accuracy
-
-<img src="figure/result/svhn/accuracy.png" height="200"/>
-
-### CIFAR-10
-
-* The supervised loss
-
-<img src="figure/result/cifar10/s_loss.png" height="200"/>
-
-* The loss of Discriminator
-
-D_loss_real
-
-<img src="figure/result/cifar10/d_loss_real.png" height="200"/>
-
-D_loss_fake
-
-<img src="figure/result/cifar10/d_loss_fake.png" height="200"/>
-
-D_loss (total loss)
-
-<img src="figure/result/cifar10/d_loss.png" height="200"/>
-
-* The loss of Generator
-
-G_loss
-
-<img src="figure/result/cifar10/g_loss.png" height="200"/>
 
 * Classification accuracy
 
