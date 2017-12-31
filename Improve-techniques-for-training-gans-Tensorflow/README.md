@@ -121,8 +121,12 @@ G_loss
 
 <img src="figure/result/cifar10/accuracy.png" height="200"/>
 
+All images:
+
 <img src="figure/result/mnist/loss_1.png" >
+
 <img src="figure/result/mnist/loss_2.png" >
+
 <img src="figure/result/mnist/loss_3.png" >
 
 ## Training tricks
