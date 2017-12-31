@@ -86,7 +86,7 @@ $ python evaler.py --dataset YOUR_DATASET
 
 <img src="figure/result/mnist/fake_2.png" height="250"/>
 
-<img src="figure/result/mnist/fake_3.png" height="250"/>
+<img src="figure/result/mnist/fake_3.png" >
 
 * First 40 epochs
 
